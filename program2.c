@@ -1,1 +1,2 @@
-this is my first github program
+this is my first github prgram
+printf("this is my second editing");
